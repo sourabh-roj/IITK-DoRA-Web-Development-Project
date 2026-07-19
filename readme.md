@@ -2,7 +2,7 @@
 dokeriitk.onrender.com/
 
 ## Project Overview
-This project is the culmination of a two-month front-end web development internship at the Indian Institute of Technology Kanpur (IIT Kanpur), working specifically with the Office of Outreach Activities and the Development Office and Relations with Alumni (DoRA). The principal objective was to deliver maintainable, modular, and high-performance front-end solutions that seamlessly integrated with institutional branding and adhered to responsive design principles. 
+This project is the culmination of a two-month front-end web development internship at the Indian Institute of Technology Kanpur (IIT Kanpur), working specifically with the Dean Office of Resources and Alumni (DoRA). The principal objective was to deliver maintainable, modular, and high-performance front-end solutions that seamlessly integrated with institutional branding and adhered to responsive design principles. 
 
 ## Team Members
 * **Prathmesh Thakur**
